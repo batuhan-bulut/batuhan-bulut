@@ -1,5 +1,5 @@
 
-![About Me!](https://user-images.githubusercontent.com/89296779/236630781-075ef049-cb31-4a6b-b6e6-cc02dab22c8a.png)
+![About Me!](https://user-images.githubusercontent.com/89296779/236631145-36526d8d-2c79-40a1-b19d-ad556a0c2475.png)
 
 # 💫 About Me:
 🔭 I’m currently working on Invicti Security.<br>🌱 I’m currently learning Go ! <br><br>I'm currently working in  and learning new stuffs everyday.<br>Nowadays my passion is writing back-end with various languages such as;<br>- C#<br>- Go<br>- Node.js<br>- etc.<br><br>Fun fact about me: I can learn almost anything, if you don't believe, try me.
